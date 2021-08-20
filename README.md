@@ -1,5 +1,5 @@
 # chat_java
-this is "a console chatting program" that was made in java
+this contains "a console chatting program" that was created in java
 
 ## it is explanation that helps you make use of this program.
 1. run "TCPServer"
